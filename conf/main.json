@@ -1,0 +1,12 @@
+{
+    "setup": {
+        "token": "Do not share this value. I don't advise it",
+        "erlc_api_key": "Do not share this value. It is your ER:LC api key"
+    },
+    "features": [
+        {
+            "name": "core",
+            "description": "Core functionality required for OpenERLC. This cannot be disabled"
+        }
+    ]
+}
